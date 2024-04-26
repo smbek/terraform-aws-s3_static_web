@@ -12,4 +12,4 @@
   zone_id = ""
 
   ```
-  # In my code provided simple restaurant menu in index.html and error.html you can upload your own index.html manually from S3 bucket. 
+  # In my code provided simple restaurant menu in index.html and error.html you have to provide your own index.html and error.html
