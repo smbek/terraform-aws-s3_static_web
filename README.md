@@ -7,7 +7,7 @@
  ```hcl
 module "s3_static_web" {
   source  = "smbek/s3_static_web/aws"
-  version = "0.0.4" # make sure your input last version
+  version = "0.0.4" # make sure you input last version
   # insert the 4 required variables here
   region = "us-east-2"
   bucket_name = ""
